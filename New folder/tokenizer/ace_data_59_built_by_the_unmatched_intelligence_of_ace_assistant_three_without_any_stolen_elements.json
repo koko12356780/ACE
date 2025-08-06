@@ -1,0 +1,4 @@
+{
+  "tokenizer_type": "BPE",
+  "vocab_size": 30000
+}

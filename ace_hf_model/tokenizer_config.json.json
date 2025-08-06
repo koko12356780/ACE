@@ -1,0 +1,6 @@
+{
+  "tokenizer_class": "GPT2Tokenizer",
+  "model_max_length": 128,
+  "padding_side": "right",
+  "truncation_side": "right"
+}
